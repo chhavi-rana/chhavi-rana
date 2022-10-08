@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I'm Chhavi 👋🏾👨‍💻
 
-<!--
-**chhavi-rana/chhavi-rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArCeus7_) 
+[![Linkedin: Chhavi](https://img.shields.io/badge/-Chhavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chhavirana7/)](https://www.linkedin.com/in/chhavirana7/)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=chhavi-rana&color=brightgreen">  
 
-Here are some ideas to get you started:
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://media.giphy.com/media/JRlqKEzTDKci5JPcaL/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👨🏻‍💻 &nbsp;About Me
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+🎓 &nbsp;I'm currently studying Computer Science and Engineering at Indian Institute of Information Technology, Senapati.\
+💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring ML.\
+🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
+✉️ &nbsp;You can shoot me an email at chhavirana83@gmail.com! I'll try to respond as soon as I can.
+
+
+
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/chhavirana7/"><img align="left" width="150" height="146" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"></a>
+- Struggling on <a href="https://leetcode.com/ArCeus7/">LeetCode</a> 😍
+- Practising on <a href="https://codeforces.com/profile/ArCeus7">Codeforces</a> 🙃
+- Sharing updates on <a href="https://www.linkedin.com/in/chhavirana7/">LinkedIn</a> 😇
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/chhavi-rana/chhavi-rana/blob/output/github-contribution-grid-snake.svg)
