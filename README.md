@@ -3,8 +3,8 @@
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArCeus7_) 
 [![Linkedin: Chhavi](https://img.shields.io/badge/-Chhavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chhavirana7/)](https://www.linkedin.com/in/chhavirana7/)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=chhavi-rana&color=brightgreen">  
+![Green Minimalist Flatlay  (LinkedIn Banner)](https://user-images.githubusercontent.com/83640180/194698085-6f83f4f4-8fee-446a-bf60-05caed62ad08.png)
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://media.giphy.com/media/JRlqKEzTDKci5JPcaL/giphy.gif)
 
 
 ## 👨🏻‍💻 &nbsp;About Me
