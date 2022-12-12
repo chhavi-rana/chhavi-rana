@@ -12,10 +12,15 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 
+ <img align="right"  src="assets/giphy.gif"/>
 
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at Indian Institute of Information Technology, Senapati.\
-💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring ML.\
-🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
+
+🎓 &nbsp;I'm currently studying Computer Science and Engineering at Indian Institute of Information Technology, Senapati.
+
+💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring ML.  
+
+🌱 &nbsp;I'm on track for learning more about computer fundamentals, Systems Design, and Algorithms.  
+
 ✉️ &nbsp;You can shoot me an email at chhavirana83@gmail.com! I'll try to respond as soon as I can.
 
 
