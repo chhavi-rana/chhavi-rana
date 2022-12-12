@@ -11,7 +11,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Indian Institute of Information Technology, Senapati.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring ML.\
