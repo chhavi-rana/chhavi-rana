@@ -17,7 +17,7 @@
 
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Indian Institute of Information Technology, Senapati.
 
-💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring ML.  
+💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. 
 
 🌱 &nbsp;I'm on track for learning more about computer fundamentals, Systems Design, and Algorithms.  
 
