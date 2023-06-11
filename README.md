@@ -30,8 +30,8 @@
 - Practising on <a href="https://codeforces.com/profile/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/chhavirana7/">LinkedIn</a> 😇
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/chhavi-rana/chhavi-rana/blob/output/github-contribution-grid-snake.svg)
+<!-- ## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/chhavi-rana/chhavi-rana/blob/output/github-contribution-grid-snake.svg) -->
 
 
 <h3 align="left">Support:</h3>
