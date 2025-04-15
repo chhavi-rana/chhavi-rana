@@ -38,8 +38,8 @@
 
 
 <!-- Find me around the web 🌎 <a href="https://www.linkedin.com/in/chhavirana7/"><img align="left" width="150" height="146" src=""></a> -->
-- Struggling on <a href="https://leetcode.com/rana-chaz/">LeetCode</a> 😍
-- Sharing updates on <a href="https://www.linkedin.com/in/chhavi-rana/">LinkedIn</a> 😇
+- Struggling on <a href="https://leetcode.com//">LeetCode</a> 😍
+- Sharing updates on <a href="https://www.linkedin.com/in/rana-chhavi/">LinkedIn</a> 😇
 
 <!-- ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/chhavi-rana/chhavi-rana/blob/output/github-contribution-grid-snake.svg) -->
