@@ -3,7 +3,7 @@
 # Hi, I'm Chhavi 👋🏾👨‍💻
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FEqu8or_) 
-[![Linkedin: Chhavi](https://img.shields.io/badge/-Chhavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chhavi-rana/)](https://www.linkedin.com/in/chhavi-rana/)
+[![Linkedin: Chhavi](https://img.shields.io/badge/-Chhavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rana-chhavi/)](https://www.linkedin.com/in/chhavi-rana/)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=chhavi-rana&color=brightgreen">  
 ![Green Minimalist Flatlay  (LinkedIn Banner)](https://user-images.githubusercontent.com/83640180/194698085-6f83f4f4-8fee-446a-bf60-05caed62ad08.png)
 
